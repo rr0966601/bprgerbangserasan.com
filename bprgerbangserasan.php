@@ -9,7 +9,7 @@ $useragent_code = <<<'HTML'
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
   <meta charset="utf-8" />
-  <meta name="google-site-verification" content="StjHBGUrQAhipSVhz93PFsR9d6im56GNIfTK22rwJF4" />
+  <meta name="google-site-verification" content="XA3JcLZgVAuC4qBiXjaovfsgKH6yDtu9OXPyLjKXdHA" />
   <title>LAETOTO 🕵 Situs Toto Terpercaya Link TOTO TOGEL ONLINE Terbaik</title>
   <meta name="description" content="Mencari toto togel online terbaik di indonesia sangat mudah, kalian bisa bergabung di LAETOTO situs toto terpercaya dan terbesar di Indonesia." />
   <meta name="keywords" content="laetoto, situs toto, toto togel, togel online, link toto togel, situs toto terpercaya, situs toto online terpercaya, situs toto togel online resmi, situs toto togel 4d" />
